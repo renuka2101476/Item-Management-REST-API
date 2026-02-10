@@ -6,6 +6,7 @@ How to Run:
 3. Run ItemApiApplication.java
 
 API Endpoints: Use POSTMAN - Server runs on http://localhost:8080
+
 1.POST /api/items
  - Adds a new item
  - Validates required fields
