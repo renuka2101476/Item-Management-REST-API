@@ -8,6 +8,7 @@ How to Run:
 
 ---
 API Endpoints: Use POSTMAN - Server runs on http://localhost:8080
+
 1.POST /api/items
  - Adds a new item
  - Validates required fields
@@ -31,4 +32,5 @@ Data Storage:
 Tech Stack:
 - Java
 - Spring Boot
+
 
